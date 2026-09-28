@@ -10,9 +10,7 @@ I build automation and AI tooling that has to be right, not just plausible: n8n 
 **Open source.** I fix bugs in the tools I use; every fix ships with a test that fails before the change and passes after it.
 
 <!-- CONTRIB:START -->
-Merged (1):
-- [career-ops-hq/career-ops#4391](https://github.com/career-ops-hq/career-ops/pull/4391): fix: reserve-report-num.mjs skip batch-state "failed" report numbers
-
-In review (1):
+Merged (2):
 - [vercel-labs/skills#2301](https://github.com/vercel-labs/skills/pull/2301): Record global installs from a local path in the skill lock
+- [career-ops-hq/career-ops#4391](https://github.com/career-ops-hq/career-ops/pull/4391): fix: reserve-report-num.mjs skip batch-state "failed" report numbers
 <!-- CONTRIB:END -->
